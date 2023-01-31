@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/leo/dev/data-encrypter/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/data-encrypter.dir/src/data-encrypter.cpp.o -c /home/leo/dev/data-encrypter/src/data-encrypter.cpp",
+  "file": "/home/leo/dev/data-encrypter/src/data-encrypter.cpp"
+},
+{
+  "directory": "/home/leo/dev/data-encrypter/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/data-encrypter.dir/lib/AES.cpp.o -c /home/leo/dev/data-encrypter/lib/AES.cpp",
+  "file": "/home/leo/dev/data-encrypter/lib/AES.cpp"
+},
+{
+  "directory": "/home/leo/dev/data-encrypter/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/data-encrypter.dir/src/FileHandling.cpp.o -c /home/leo/dev/data-encrypter/src/FileHandling.cpp",
+  "file": "/home/leo/dev/data-encrypter/src/FileHandling.cpp"
+},
+{
+  "directory": "/home/leo/dev/data-encrypter/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/data-encrypter.dir/lib/SHA512.cpp.o -c /home/leo/dev/data-encrypter/lib/SHA512.cpp",
+  "file": "/home/leo/dev/data-encrypter/lib/SHA512.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/data-encrypter.dir/src/data-encrypter.cpp.o CMakeFiles/data-encrypter.dir/lib/AES.cpp.o CMakeFiles/data-encrypter.dir/src/FileHandling.cpp.o CMakeFiles/data-encrypter.dir/lib/SHA512.cpp.o -o data-encrypter 
